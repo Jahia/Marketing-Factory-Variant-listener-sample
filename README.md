@@ -8,7 +8,7 @@ This module provide a simple component that listen on this events, and display d
 
 ## Minimal requirements
 
-* DX 7.2.3.2
+* DX 7.1.2.1
 * Marketing Factory 1.9.x
 
 ## Build and deploy
