@@ -1,6 +1,6 @@
 # Marketing Factory Variant listener sample
 
-This project contains an example module to run along for Marketing Factory.
+This project contains an example module to run along Marketing Factory.
 
 When a variant is resolved and displayed Marketing Factory is sending a custom JavaScript event that contains the displayed variant infos.
 
