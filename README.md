@@ -25,7 +25,7 @@ Download the jar and deploy it on your instance then activate the module on the 
 ## Usage
 
 * Activate the module on your web site
-* Add the component `Variant Listener Sample` in your web page
+* Add the component `Variant Listener Sample` in your web page (this component is available in `Marketing factory components` section)
 * If your page contains some Personalisations or Optimization tests the component previously added will display all the event details related to the variants displayed
 
 ## Details
