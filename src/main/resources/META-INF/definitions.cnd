@@ -1,5 +1,8 @@
 <jnt = 'http://www.jahia.org/jahia/nt/1.0'>
 <jmix = 'http://www.jahia.org/jahia/mix/1.0'>
 <wemnt = 'http://www.jahia.org/jahia/wem/nt/1.0'>
+<wemmix = 'http://www.jahia.org/jahia/wem/mix/1.0'>
 
-[wemnt:variantListenerTest] > jnt:content, wemmix:wemComponents
+[wemmix:wemComponentsSample] > jmix:droppableContent mixin
+
+[wemnt:variantListenerTest] > jnt:content, wemmix:wemComponentsSample
