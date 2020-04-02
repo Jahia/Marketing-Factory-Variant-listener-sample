@@ -55,10 +55,10 @@
         <version>7.1.2.1</version>
     </parent>
     <artifactId>marketing-factory-variant-listener</artifactId>
-    <name>Marketing Factory Variant Listener sample</name>
+    <name>jExperience Variant Listener sample</name>
     <version>1.0-SNAPSHOT</version>    
     <packaging>bundle</packaging>
-    <description>This is the custom module (Marketing Factory Variant Listener sample) for running on a Digital Experience Manager server.</description>
+    <description>This is the custom module (jExperience Variant Listener sample) for running on a Digital Experience Manager server.</description>
 
     <scm>
         <connection>scm:dummy:uri</connection>
